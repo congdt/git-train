@@ -3,3 +3,4 @@ master: add second line
 2nd Modify second line in Second.txt
 master: add line to conflict 3rdbranch
 master 2: add line 
+3rd add line
