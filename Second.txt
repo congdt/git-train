@@ -1,4 +1,4 @@
 We are in Second branch! 
 master: add second line
 2nd Modify second line in Second.txt
-
+master: add line to conflict 3rdbranch
